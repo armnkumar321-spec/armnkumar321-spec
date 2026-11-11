@@ -1,23 +1,26 @@
-# Hi, I'm Aman 👋
+# Aman Kumar
 
-CS student building full-stack web apps with the MERN stack, and getting into open source.
+Computer science student and full-stack developer. I build MERN web apps and retrieval-augmented (RAG) LLM tools, and I contribute to open source.
 
-- 🛠️ Working with: JavaScript, React, Node.js, Express, MongoDB, C++, Python
-- 🌱 Currently: contributing to [Hiero SDK JS](https://github.com/hiero-ledger/hiero-sdk-js) and learning RAG / LLM apps
-- 📫 Reach me: armnkumar321@gmail.com
+**Tech:** JavaScript · TypeScript · React · Node.js · Express · MongoDB · Python · LangChain · C++
+
+📫 armnkumar321@gmail.com
+
+---
 
 ## Featured projects
 
-| Project | What it is | Stack | Live |
+| Project | Description | Stack | Live |
 |---|---|---|---|
-| [hr-policy-assistant](https://github.com/armnkumar321-spec/hr-policy-assistant) | RAG assistant that answers HR policy questions with cited sources and the matching PDF page | Python, LangChain, ChromaDB, Streamlit, Gemini | — |
-| [doc-chat](https://github.com/armnkumar321-spec/doc-chat) | Chat with your documents | JavaScript | [demo](https://doc-chat-mocha.vercel.app) |
-| [task-management-system](https://github.com/armnkumar321-spec/task-management-system) | TaskFlow: task manager with search, filters, admin assignment and tests | MERN | [demo](https://task-management-system-iota-ashen.vercel.app) |
-| [Bloodbank](https://github.com/armnkumar321-spec/Bloodbank) | Blood bank management system | MERN | [demo](https://bloodbank-mauve.vercel.app) |
-| [shopproducts](https://github.com/armnkumar321-spec/shopproducts) | E-commerce app | MERN, Firebase | [demo](https://shopproducts.vercel.app) |
-| [pawpedia](https://github.com/armnkumar321-spec/pawpedia) | Dog breed gallery | JavaScript | [demo](https://pawpedia-five.vercel.app) |
+| [doc-chat](https://github.com/armnkumar321-spec/doc-chat) | Chat with your PDF/DOCX/TXT files. Answers cite the page with a word-for-word quote. Also has study mode, quizzes, an exam simulator and document comparison. | React, Express, Qdrant, Gemini | [demo](https://doc-chat-mocha.vercel.app) |
+| [hr-policy-assistant](https://github.com/armnkumar321-spec/hr-policy-assistant) | RAG assistant that answers HR policy questions only from the manual and shows the cited PDF page next to each answer. | Python, LangChain, ChromaDB, Streamlit, Gemini | — |
+| [task-management-system](https://github.com/armnkumar321-spec/task-management-system) | TaskFlow: a team task manager with JWT auth, admin/user roles, search and filters | MERN | [demo](https://task-management-system-iota-ashen.vercel.app) |
+| [shopproducts](https://github.com/armnkumar321-spec/shopproducts) | E-commerce store with cart, Stripe checkout and auth | MERN, Redux Toolkit, Firebase | [demo](https://shopproducts.vercel.app) |
+| [Bloodbank](https://github.com/armnkumar321-spec/Bloodbank) | Blood bank management: donor registration, blood requests, admin and user dashboards | MERN | [demo](https://bloodbank-mauve.vercel.app) |
 
-## Open source
+## Open source contributions
 
-- **Hiero SDK JS:** fixed spelling mistakes in SDK source comments ([#4567](https://github.com/hiero-ledger/hiero-sdk-js/pull/4567))
-- **StayNest (MERN booking app):** 10 PRs, including double-booking prevention, booking API integration tests (Jest + Supertest + mongodb-memory-server), email notifications, Cloudinary image upload, a Leaflet location map, mobile responsiveness and a GitHub Actions CI workflow ([my PRs](https://github.com/vikas0799/staynest/pulls?q=is%3Apr+author%3Aarmnkumar321-spec))
+- **Backstage community plugins:** migrated the Dynatrace plugin to Jest 30 ([#11987](https://github.com/backstage/community-plugins/pull/11987), merged). In review: enabled knip reports for Tech Radar ([#11986](https://github.com/backstage/community-plugins/pull/11986)) and rewrote the Nomad workspace README ([#11714](https://github.com/backstage/community-plugins/pull/11714)).
+- **Apache Iggy:** unit tests for the Node.js SDK's delete-segments command ([#4829](https://github.com/apache/iggy/pull/4829), in review)
+- **Hiero SDK JS:** documentation fixes in SDK source comments ([#4567](https://github.com/hiero-ledger/hiero-sdk-js/pull/4567), merged)
+- **StayNest (team MERN project):** booking API integration tests (Jest, Supertest), double-booking prevention, email notifications, Cloudinary image upload, a Leaflet map and a GitHub Actions CI workflow ([PRs](https://github.com/vikas0799/staynest/pulls?q=is%3Apr+author%3Aarmnkumar321-spec))
